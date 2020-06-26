@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React-Pokedex App
+
+Building this application to work with react components and props. 
+
+Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+## Technology Used
+* ReactJS
+
+
 
 ## Available Scripts
 
