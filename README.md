@@ -1,12 +1,23 @@
 # React-Pokedex App
 
-Building this application to work with react components and props. 
+Building this application to work with react components, props, and to create some easy templates and notes for myself.  
 
 Bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Technology Used
 * ReactJS
+
+
+## CRA: Conventions to keep in mind & assets
+
+* Components and the js file names should match, and be capitalized
+* Components need to extend from Components react (i.e. class Name extends Component { ... )
+* make a CSS file for each React component (i.e Name.css for Name componenet) ---> if you do this CRA will automatically load the css
+* Convential to add a className="Name" into the top level element (div)
+* CSS is not scoped, so when we import, if we have general styling not within a class tag it will mess things up
+
+* Skeleton will assume that the top object is App in App.js (easiest to keep this, especially when using create react app)
 
 
 
