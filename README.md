@@ -7,6 +7,16 @@ Bootstrapped with [Create React App](https://github.com/facebook/create-react-ap
 
 ## Technology Used
 * ReactJS
+* CSS
+
+
+## Future Development:
+* Replace the hard coded array of pokemon with the Pokemon API
+* Create a matching game
+* Add more features or components 
+..* Header
+..* Footer
+..* 
 
 
 ## CRA: Conventions to keep in mind & assets
