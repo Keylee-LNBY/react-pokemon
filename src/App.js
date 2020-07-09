@@ -5,18 +5,18 @@
 import React from 'react';
 
 //Will delete these once I get more code written.
-import logo from './logo.svg';
+import Pokecard from './Pokecard';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-         React Pokedex
-        </p>
-      </header>
+      <Pokecard 
+      id={4}
+      name="Charmander"
+      type="fire"
+      exp={62}
+      />
     </div>
   );
 }
